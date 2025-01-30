@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "parthiban333/nodejsapp:16"
+        image: "parthiban333/nodejsapp:27"
         ports:
           - containerPort: 3000
 ---
